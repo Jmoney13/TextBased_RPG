@@ -1,7 +1,7 @@
 # TextBased_RPG That I Call "Dungeony Dungeon"
   this was a my idea for my final Java Senior Project at Eastland-Fairfield Career Center
 this Program is a simple choose your own adventure style game. where A user can Choose
-What class they may choose. 
+their own class. 
 
 * Soldier
 * Tank
