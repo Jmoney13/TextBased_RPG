@@ -8,7 +8,7 @@ What class they may choose.
 * Archer
 * Wizard
 
-  Each of these classes have different move sets and different Health Point amounts.
+Each of these classes have different move sets and different Health Point amounts.
 after the user chooses a class they will enter a room and be faced against an enemy with 
 its own set of moves and health points. Once either the player or the enemy is defeated they 
 will be given a **You Lose!** or **You Win!** screen and asked if they would like to play again
